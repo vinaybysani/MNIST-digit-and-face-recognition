@@ -6,3 +6,5 @@
 Accuracy for digit recognition obtained    : 81.5
 
 Accuracy for faces classification obtained : 90.7
+
+Refer the Report.pdf for detailed info on results
