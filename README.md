@@ -4,4 +4,5 @@
 3.	Marginally infused relaxed algorithm
 
 Accuracy for digit recognition obtained    : 81.5
+
 Accuracy for faces classification obtained : 90.7
